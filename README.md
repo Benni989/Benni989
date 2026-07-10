@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-![](https://discord.c99.nl/widget/theme-2/1467491485699276986.png)
+![](https://discord.c99.nl/widget/theme-3/1467491485699276986.png)
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
