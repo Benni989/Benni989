@@ -14,5 +14,5 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=discord,bots,javascript,discordjs,nodejs,py,github,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=discord,javascript,discordjs,nodejs,py,github,windows,vscode" />
 </div>
